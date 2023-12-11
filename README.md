@@ -32,12 +32,3 @@ The Bitcoin Ledger Project is a Python-based application designed to simulate a 
    ```
 
 2. **Interacting with the Ledger**: (Provide instructions on how users can interact with the ledger, such as entering account numbers or viewing transaction details.)
-
-## Contributing
-(Provide guidelines on how others can contribute to your project, if applicable.)
-
-## License
-(Include license information, if any.)
-
-## Contact
-(Provide your contact information or how to reach out for support or collaboration.)
