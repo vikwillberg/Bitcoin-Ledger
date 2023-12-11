@@ -1,0 +1,16 @@
+[
+    {
+        "id": "tx1",
+        "sender": "address1",
+        "receiver": "address2",
+        "amount": 0.5,
+        "timestamp": "2023-12-10T12:00:00"
+    },
+    {
+        "id": "tx2",
+        "sender": "address3",
+        "receiver": "address4",
+        "amount": 1.2,
+        "timestamp": "2023-12-10T12:05:00"
+    }
+]
