@@ -1,4 +1,3 @@
-
 # Bitcoin Ledger Project
 
 ## Overview
