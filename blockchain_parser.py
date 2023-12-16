@@ -23,3 +23,4 @@ class BlockchainParser:
             if tx['sender'] == account_number or tx['receiver'] == account_number
         ]
         return relevant_transactions
+
