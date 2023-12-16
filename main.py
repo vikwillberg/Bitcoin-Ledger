@@ -26,7 +26,6 @@ def main():
         # Display transaction details and account balance
         analysis.display_transactions()
         print(f"Account Balance: {analysis.calculate_balance()} BTC")
-
     except Exception as e:
         ErrorHandler.handle_error(e)
 
